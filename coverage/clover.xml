@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1724525817931" clover="3.2.0">
-  <project timestamp="1724525817932" name="All files">
+<coverage generated="1724657853424" clover="3.2.0">
+  <project timestamp="1724657853425" name="All files">
     <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1" elements="10" coveredelements="10" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
     <file name="statusPlayer.js" path="C:\Users\sasha\OneDrive\Рабочий стол\auto_tests\src\statusPlayer.js">
       <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
